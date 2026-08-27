@@ -9,7 +9,7 @@ I use this GitHub account for personal projects, automation tools and small util
 ## Network Security
 
 - Fortinet / FortiGate
-- Palo Alto Networks
+- Palo Alto Networks / NGFW
 - Sophos Firewall
 
 ## Endpoint Security & EDR/XDR
