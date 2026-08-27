@@ -1,16 +1,26 @@
-## Hi there 👋
+# Fatih Bal
 
-<!--
-**fatihcun/fatihcun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Network & Cybersecurity**
 
-Here are some ideas to get you started:
+I mainly work on network security, firewall technologies, endpoint security and EDR/XDR solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use this GitHub account for personal projects, automation tools and small utilities related to security and IT operations.
+
+## Network Security
+
+- Fortinet / FortiGate
+- Palo Alto Networks
+- Sophos Firewall
+
+## Endpoint Security & EDR/XDR
+
+- Cortex XDR
+- Sophos Intercept X
+- SentinelOne
+
+## Automation & Operations
+
+- Python
+- Security automation
+- Incident analysis
+- Network troubleshooting
